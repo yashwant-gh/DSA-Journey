@@ -34,6 +34,8 @@ public:
         int sz=arr.size();
         ListNode* head=NULL;
         head=LL(arr,0,sz);
+        arr.clear();
+        arr.shrink_to_fit();
         return head;
     }
 };
