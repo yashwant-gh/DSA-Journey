@@ -10,12 +10,6 @@
  */
 class Solution {
 public:
-ListNode* LL(vector<int> arr,int index,int size){
-    if(index==size) return NULL;
-    ListNode* temp= new ListNode(arr[index]);
-    temp->next=LL(arr,index+1,size);
-    return temp;
-}
     ListNode* doubleIt(ListNode* head) {
         vector<int> arr;
         ListNode* temp=head;
@@ -36,11 +30,11 @@ ListNode* LL(vector<int> arr,int index,int size){
                 carry=0;
             }
         }
-        ListNode* temp1=head;
+        temp=head;
         int i=0;
-        while(temp1){
-            temp1->val=arr[i];
-            temp1=temp1->next;
+        while(temp){
+            temp->val=arr[i];
+            temp=temp->next;
             i++;
         }
         ListNode* Head;
