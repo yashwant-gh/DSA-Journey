@@ -19,18 +19,15 @@ public:
             temp=temp->next;
         }
         for(int i=0;i<arr.size();i++){
-            int sum=0;
+            
             for(int j=i+1;j<arr.size();j++){
                 if(arr[j]>arr[i]){
                     arr1.push_back(arr[j]);
-                    sum++;
+                    
                 }
-                if (sum>0) break;
+                if (arr1.size()==i+1) break;
             }
-            if(sum==0) arr1.push_back(0);
-        }
-        for(int i=0;i<arr1.size();i++){
-            cout<<arr1[i]<<" ";
+            if(arr1.size()!=i+1) arr1.push_back(0);
         }
         return arr1;
     }
