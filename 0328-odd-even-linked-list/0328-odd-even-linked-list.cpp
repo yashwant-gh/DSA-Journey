@@ -17,9 +17,6 @@ public:
             a1.push_back(temp->val);
             temp=temp->next;
         }
-        // for(int i=0;i<a1.size();i++){
-        //     cout<<a1[i]<<" ";
-        // }
        ListNode* ans=head;
        int i=0;
        while(i<a1.size()){
