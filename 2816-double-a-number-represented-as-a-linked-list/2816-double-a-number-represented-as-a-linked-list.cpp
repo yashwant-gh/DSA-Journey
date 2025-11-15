@@ -37,9 +37,9 @@ public:
             temp=temp->next;
             i++;
         }
-        ListNode* Head;
+        
         if(carry){
-            Head=new ListNode(1);
+            ListNode* Head=new ListNode(1);
             Head->next=head;
             head=Head;
         }
