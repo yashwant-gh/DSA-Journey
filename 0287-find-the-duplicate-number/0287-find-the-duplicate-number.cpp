@@ -1,15 +1,14 @@
 class Solution {
 public:
     int findDuplicate(vector<int>& arr) {
-        // int right=0;
-        int left=arr.size()-1;
+        unordered_map<int,int>mp;
         int ans;
-        for(int right=0;right<arr.size();right++){
-            left=arr.size()-1;
-        while(right<left){
-            if(arr[right]==arr[left]) ans=arr[right];
-            left--;
-        }
+        for(int x:arr){
+            mp[x]++;
+            if(mp[x]==2) {
+                ans=x;
+                break;
+            }
         }
         return ans;
     }
