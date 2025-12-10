@@ -20,13 +20,7 @@ public:
                 mp[sc[i]]--;
             }
         }
-        string X= to_string(x);
-        string Y= to_string(y);
-        string ans=X+'A'+Y+'B';
-        // ans+=X;
-        // ans+='A';
-        // ans+=Y;
-        // ans+='B';
+        string ans=to_string(x)+'A'+to_string(y)+'B';
         return ans;
     }
 };
