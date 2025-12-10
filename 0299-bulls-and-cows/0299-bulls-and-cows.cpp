@@ -22,11 +22,11 @@ public:
         }
         string X= to_string(x);
         string Y= to_string(y);
-        string ans="";
-        ans+=X;
-        ans+='A';
-        ans+=Y;
-        ans+='B';
+        string ans=X+'A'+Y+'B';
+        // ans+=X;
+        // ans+='A';
+        // ans+=Y;
+        // ans+='B';
         return ans;
     }
 };
