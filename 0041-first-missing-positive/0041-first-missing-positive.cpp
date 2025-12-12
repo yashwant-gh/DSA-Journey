@@ -8,14 +8,15 @@ public:
         int ans=1;
         sort(arr.begin(),arr.end());
         bool mila=false;
-        for(unsigned  i=1;i<=arr.back();i++){
+        for(int i=1;i<=arr.back();i++){
             if(mp[i]==0) {
                 ans=i;
                 mila=true;
                 break;
             }
         }
-        if(!mila) return arr.back()+1;
+        if(!mila && arr.back()>=0) return arr.back()+1;
+        if(!mila) return 1;
         return ans;
     }
 };
