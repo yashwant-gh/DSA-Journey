@@ -1,4 +1,4 @@
-int _ = (atexit([]{ofstream("display_runtime.txt")<<0;}),0);
+// int _ = (atexit([]{ofstream("display_runtime.txt")<<0;}),0);
 
 
 class Solution {
