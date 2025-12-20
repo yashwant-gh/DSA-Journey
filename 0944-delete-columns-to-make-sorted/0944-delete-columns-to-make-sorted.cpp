@@ -10,7 +10,6 @@ public:
             }
         }
         }
-        cout<<count;
         return count;
     }
 };
