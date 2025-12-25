@@ -14,7 +14,8 @@ int solve(int n,vector<int>& cost){
     }
 }
     int minCostClimbingStairs(vector<int>& cost) {
+        cost.push_back(0);
         int n=cost.size();
-        return solve(n,cost);
+        return solve(n-1,cost);
     }
 };
