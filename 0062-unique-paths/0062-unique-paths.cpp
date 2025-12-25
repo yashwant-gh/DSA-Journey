@@ -11,6 +11,7 @@ Solution(){
         return dp[i][j]=solve(i-1,j)+solve(i,j-1);
     }
 
+// because to initilase decrease the value of m and n as we can never reach 3,7 as it is not in the grid 
     int uniquePaths(int i,int j){
         return solve(i-1,j-1);
     }
