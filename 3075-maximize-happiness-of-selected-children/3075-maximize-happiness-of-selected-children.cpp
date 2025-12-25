@@ -9,14 +9,6 @@ public:
             cout<<arr.back()-i<<" ";
             arr.pop_back();
         }
-        // while(k){
-        //     sum+=arr.back();
-        //     arr.pop_back();
-        //     for(int &x:arr){
-        //         if(x>0) x--;
-        //     }
-        //     k--;
-        // }
         return sum;
     }
 };
