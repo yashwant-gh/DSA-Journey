@@ -6,7 +6,6 @@ public:
         for(int i=0;i<k;i++){
             if(arr.back()==0) break;
             if((arr.back()-i)>=0) sum+=arr.back()-i;
-            cout<<arr.back()-i<<" ";
             arr.pop_back();
         }
         return sum;
