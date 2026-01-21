@@ -1,19 +1,12 @@
 class Solution {
 public:
-    int maximumWealth(vector<vector<int>>& accounts) {
-        int maxW=0;
-        int m=accounts.size();
-        int n=accounts[0].size();
-        for(int i=0;i<m;i++){
-            int sum=0;
-            for(int j=0;j<n;j++){
-                sum+=accounts[i][j];
-             maxW=max(maxW,sum);
-            }
-               
-
+    int maximumWealth(vector<vector<int>>& arr) {
+        int maxu=INT_MIN;
+        int sum=0;
+        for(vector<int> aru:arr){
+            sum=accumulate(aru.begin(),aru.end(),0);
+            maxu=max(maxu,sum);
         }
-        return maxW;
-        
+        return maxu;
     }
 };
