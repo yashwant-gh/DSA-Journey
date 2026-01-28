@@ -9,7 +9,7 @@ int bs(vector<int>& arr){
             return mid;
         }
         else if (arr[mid]>arr[mid-1])l=mid+1;
-        else h=mid-1;
+        else h=mid;
     }
     return -1;
 }
