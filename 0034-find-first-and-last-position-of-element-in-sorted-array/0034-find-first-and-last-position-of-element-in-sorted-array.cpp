@@ -1,31 +1,42 @@
 class Solution {
 public:
-    vector<int> searchRange(vector<int>& nums, int target) {
-        int start,end;
-        int sum=0;
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]==target){
-                sum=sum+1;
-                start=i;
-                break;
-            }
+int bsl(vector<int> arr,int target){
+    int l=0;
+    int h=arr.size()-1;
+    int ans=-1;
+    while(l<=h){
+        int mid=l+(h-l)/2;
+        if(arr[mid]==target){
+            ans=mid;
+            h=mid-1;
         }
-        for(int i=nums.size()-1;i>=0;i--){
-            if(nums[i]==target){
-                end=i;
-                break;
-            }
+        else if(arr[mid]>target)h=mid-1;
+        else l=mid+1;
+    }
+    return ans;
+}
+
+int bsr(vector<int>arr,int target){
+    int l=0;
+    int h=arr.size()-1;
+    int ans=-1;
+    while(l<=h){
+        int mid=l+(h-l)/2;
+        if(arr[mid]==target){
+            ans=mid;
+            l=mid+1;
         }
-        vector<int> result(2);
-        if(sum==0){
-            result[0]=-1;
-            result[1]=-1;
-            return result;
-        }
-        else {
-            result[0]=start;
-            result[1]=end;
-            return result;
-        }
+        else if(arr[mid]>target)h=mid-1;
+        else l=mid+1;
+    }
+    return ans;
+}
+    vector<int> searchRange(vector<int>& arr, int target) {
+        vector<int>ans;
+        int fr=bsl(arr,target);
+        int ls=bsr(arr,target);
+        ans.push_back(fr);
+        ans.push_back(ls);
+        return ans;
     }
 };
