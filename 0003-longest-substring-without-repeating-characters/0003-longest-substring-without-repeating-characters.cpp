@@ -8,7 +8,6 @@ public:
         int ans=0;
         for(int i=0;i<s.size();i++){
             if(mp[s[i]]){
-                // ans=max(ans,r-l+1);
                 while(mp[s[i]]){
                     mp[s[l]]--;
                     l++;
