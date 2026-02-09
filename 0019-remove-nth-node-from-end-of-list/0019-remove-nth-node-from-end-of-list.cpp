@@ -10,30 +10,43 @@
  */
 class Solution {
 public:
-ListNode* dlt(ListNode* curr,int x){
+
+ListNode* deleteNode(ListNode*&  curr,int x){
     if(x==0){
         ListNode* temp=curr->next;
         delete curr;
         return temp;
     }
-    curr->next=dlt(curr->next,x-1);
+    curr->next=deleteNode(curr->next,x-1);
     return curr;
 }
-    ListNode* removeNthFromEnd(ListNode* head, int n) {
-        ListNode* temp=head;
-        int sz=0;
-        while(temp){
-            temp=temp->next;
-            sz++;
+
+ListNode* rev(ListNode*& head){
+    ListNode* curr=head;
+        ListNode* fut=NULL;
+        ListNode* prev=NULL;
+        while(curr){
+            fut=curr->next;
+            curr->next=prev;
+            prev=curr;
+            curr=fut;
         }
-        int x=sz-n;
-        // if(x==0) return NULL;
-        // return head;
-        return dlt(head,x);
-        // while(x--){
-        //     temp=temp->next;
-        // }
+        return prev;
+}
+    ListNode* removeNthFromEnd(ListNode* head, int n) {
+        ListNode* slow=head;
+        ListNode* fast=head;
         
-        
+        while(n--)fast=fast->next;
+        if(!fast)return head->next;
+        while(fast->next){
+            fast=fast->next;
+            slow=slow->next;
+        }
+        ListNode* dlt=slow->next;
+        slow->next=slow->next->next;
+        delete dlt;
+        return head;
+
     }
 };
