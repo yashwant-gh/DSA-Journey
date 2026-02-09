@@ -10,33 +10,9 @@
  */
 class Solution {
 public:
-
-ListNode* deleteNode(ListNode*&  curr,int x){
-    if(x==0){
-        ListNode* temp=curr->next;
-        delete curr;
-        return temp;
-    }
-    curr->next=deleteNode(curr->next,x-1);
-    return curr;
-}
-
-ListNode* rev(ListNode*& head){
-    ListNode* curr=head;
-        ListNode* fut=NULL;
-        ListNode* prev=NULL;
-        while(curr){
-            fut=curr->next;
-            curr->next=prev;
-            prev=curr;
-            curr=fut;
-        }
-        return prev;
-}
     ListNode* removeNthFromEnd(ListNode* head, int n) {
         ListNode* slow=head;
         ListNode* fast=head;
-        
         while(n--)fast=fast->next;
         if(!fast)return head->next;
         while(fast->next){
@@ -47,6 +23,5 @@ ListNode* rev(ListNode*& head){
         slow->next=slow->next->next;
         delete dlt;
         return head;
-
     }
 };
