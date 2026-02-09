@@ -12,9 +12,7 @@ public:
         unordered_map<ListNode*, int>mp;
         ListNode* temp=head;
         while(temp){
-            if(mp[temp]){
-                break;
-            }
+            if(mp[temp])break;
             mp[temp]++;
             temp=temp->next;
         }
