@@ -15,7 +15,7 @@ public:
         ListNode* l1=head;
         ListNode* l2=head->next;
         ListNode* h2=head->next;
-        while(l1->next && l2->next){
+        while(l2 && l2->next){
             l1->next=l1->next->next;
             l2->next=l2->next->next;
             l2=l2->next;
