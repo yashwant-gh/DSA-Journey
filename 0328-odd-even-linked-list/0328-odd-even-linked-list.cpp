@@ -11,25 +11,23 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        vector<int> a1;
+        if(!head || !head->next)return head;
+        ListNode* l1=head;
+        ListNode* l2=head->next;
+        ListNode* h2=head->next;
+        while(l1->next && l2->next){
+            l1->next=l1->next->next;
+            l2->next=l2->next->next;
+            l2=l2->next;
+            l1=l1->next;
+        }
+        l1->next=h2;
+
         ListNode* temp=head;
         while(temp){
-            a1.push_back(temp->val);
+            cout<<temp->val<<" ";
             temp=temp->next;
         }
-       ListNode* ans=head;
-       int i=0;
-       while(i<a1.size()){
-        ans->val=a1[i];
-        i=i+2;
-        ans=ans->next;
-       }
-       int j=1;
-       while(j<a1.size()){
-        ans->val=a1[j];
-        j=j+2;
-        ans=ans->next;
-       }
-       return head;
+        return head;
     }
 };
