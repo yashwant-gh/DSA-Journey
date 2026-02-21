@@ -20,11 +20,11 @@ public:
             vector<int>ans1;
             int n=q.size();
             for(int i=0;i<n;i++){
-                TreeNode* node=q.front();
+                ans1.push_back(q.front()->val);
+                
+                if(q.front()->left)q.push(q.front()->left);
+                if(q.front()->right)q.push(q.front()->right);
                 q.pop();
-                ans1.push_back(node->val);
-                if(node->left)q.push(node->left);
-                if(node->right)q.push(node->right);
             }
             ans.push_back(ans1);
         }
