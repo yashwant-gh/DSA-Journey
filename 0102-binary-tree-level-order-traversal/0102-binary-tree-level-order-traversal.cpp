@@ -21,7 +21,6 @@ public:
             int n=q.size();
             for(int i=0;i<n;i++){
                 ans1.push_back(q.front()->val);
-                
                 if(q.front()->left)q.push(q.front()->left);
                 if(q.front()->right)q.push(q.front()->right);
                 q.pop();
