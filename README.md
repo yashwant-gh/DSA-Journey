@@ -63,10 +63,12 @@ Let’s grow together. 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2418-sort-the-people](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2418-sort-the-people/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2418-sort-the-people](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2418-sort-the-people/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,4 +77,9 @@ Let’s grow together. 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2418-sort-the-people](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2418-sort-the-people/) | Easy |
+| [3842-toggle-light-bulbs](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3842-toggle-light-bulbs/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3842-toggle-light-bulbs](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3842-toggle-light-bulbs/) | Easy |
 <!---LeetCode Topics End-->
