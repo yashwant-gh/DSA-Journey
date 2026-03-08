@@ -63,12 +63,14 @@ Let’s grow together. 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0682-baseball-game/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2418-sort-the-people](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2418-sort-the-people/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1207-unique-number-of-occurrences](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [2418-sort-the-people](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2418-sort-the-people/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## String
