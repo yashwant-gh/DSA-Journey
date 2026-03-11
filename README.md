@@ -66,6 +66,7 @@ Let’s grow together. 🚀
 | [1207-unique-number-of-occurrences](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2418-sort-the-people](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2418-sort-the-people/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3842-toggle-light-bulbs/) | Easy |
@@ -82,6 +83,7 @@ Let’s grow together. 🚀
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2418-sort-the-people](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2418-sort-the-people/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Simulation
@@ -103,4 +105,8 @@ Let’s grow together. 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
