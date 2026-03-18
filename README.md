@@ -75,6 +75,7 @@ Let’s grow together. 🚀
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3668-restore-finishing-order/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -103,6 +104,7 @@ Let’s grow together. 🚀
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0682-baseball-game/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [3701-compute-alternating-sum](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Math
 | Problem Name | Difficulty |
