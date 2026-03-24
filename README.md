@@ -96,6 +96,7 @@ Let’s grow together. 🚀
 | [0771-jewels-and-stones](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 | [2418-sort-the-people](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2418-sort-the-people/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2942-find-words-containing-character/) | Easy |
@@ -126,6 +127,7 @@ Let’s grow together. 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0682-baseball-game/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -143,6 +145,7 @@ Let’s grow together. 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
