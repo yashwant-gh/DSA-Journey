@@ -69,6 +69,7 @@ Let’s grow together. 🚀
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1450-number-of-students-doing-homework-at-a-given-time/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1732-find-the-highest-altitude/) | Easy |
