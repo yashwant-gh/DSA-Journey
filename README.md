@@ -75,6 +75,7 @@ Let’s grow together. 🚀
 | [1732-find-the-highest-altitude](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1816-truncate-sentence](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1816-truncate-sentence/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2363-merge-similar-items](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2363-merge-similar-items/) | Easy |
 | [2418-sort-the-people](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2418-sort-the-people/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2942-find-words-containing-character/) | Easy |
@@ -90,6 +91,7 @@ Let’s grow together. 🚀
 | [1207-unique-number-of-occurrences](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2363-merge-similar-items](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2363-merge-similar-items/) | Easy |
 | [2418-sort-the-people](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2418-sort-the-people/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3668-restore-finishing-order/) | Easy |
@@ -113,6 +115,7 @@ Let’s grow together. 🚀
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2363-merge-similar-items](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2363-merge-similar-items/) | Easy |
 | [2418-sort-the-people](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2418-sort-the-people/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Simulation
@@ -169,4 +172,8 @@ Let’s grow together. 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2363-merge-similar-items](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2363-merge-similar-items/) | Easy |
 <!---LeetCode Topics End-->
