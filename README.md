@@ -83,6 +83,7 @@ Let’s grow together. 🚀
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3668-restore-finishing-order/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -95,6 +96,7 @@ Let’s grow together. 🚀
 | [2418-sort-the-people](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2418-sort-the-people/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3668-restore-finishing-order/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3842-toggle-light-bulbs](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## String
 | Problem Name | Difficulty |
