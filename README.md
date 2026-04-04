@@ -101,6 +101,7 @@ Let’s grow together. 🚀
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0520-detect-capital](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
