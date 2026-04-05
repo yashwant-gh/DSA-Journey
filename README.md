@@ -92,6 +92,7 @@ Let’s grow together. 🚀
 | [1207-unique-number-of-occurrences](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2363-merge-similar-items](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2363-merge-similar-items/) | Easy |
 | [2418-sort-the-people](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2418-sort-the-people/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -109,6 +110,7 @@ Let’s grow together. 🚀
 | [2000-reverse-prefix-of-word](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2418-sort-the-people](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2418-sort-the-people/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2942-find-words-containing-character/) | Easy |
 | [3110-score-of-a-string](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3110-score-of-a-string/) | Easy |
@@ -154,6 +156,7 @@ Let’s grow together. 🚀
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
