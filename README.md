@@ -104,6 +104,7 @@ Let’s grow together. 🚀
 | ------- | ------- |
 | [0520-detect-capital](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0520-detect-capital/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0771-jewels-and-stones/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1816-truncate-sentence](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1816-truncate-sentence/) | Easy |
@@ -142,6 +143,7 @@ Let’s grow together. 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0682-baseball-game/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
