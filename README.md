@@ -111,6 +111,7 @@ Let’s grow together. 🚀
 | [2000-reverse-prefix-of-word](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
+| [2278-percentage-of-letter-in-string](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2418-sort-the-people](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2418-sort-the-people/) | Easy |
 | [2942-find-words-containing-character](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2942-find-words-containing-character/) | Easy |
