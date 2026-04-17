@@ -109,6 +109,7 @@ Let’s grow together. 🚀
 | [1108-defanging-an-ip-address](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [1816-truncate-sentence](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1816-truncate-sentence/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
@@ -141,6 +142,7 @@ Let’s grow together. 🚀
 | ------- | ------- |
 | [0415-add-strings](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0415-add-strings/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3289-the-two-sneaky-numbers-of-digitville/) | Easy |
@@ -190,4 +192,8 @@ Let’s grow together. 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2363-merge-similar-items](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2363-merge-similar-items/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
