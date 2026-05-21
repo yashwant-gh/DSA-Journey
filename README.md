@@ -199,10 +199,12 @@ Let’s grow together. 🚀
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0226-invert-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -211,5 +213,6 @@ Let’s grow together. 🚀
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0110-balanced-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
