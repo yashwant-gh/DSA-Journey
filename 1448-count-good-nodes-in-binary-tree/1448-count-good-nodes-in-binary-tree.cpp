@@ -19,7 +19,6 @@ public:
             mx = root->val;
             ans = 1;
         }
-        else ans = 0;
         ans += good(root->left, mx);
         ans += good(root->right, mx);
         return ans;
