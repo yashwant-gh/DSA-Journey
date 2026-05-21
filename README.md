@@ -196,4 +196,20 @@ Let’s grow together. 🚀
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1903-largest-odd-number-in-string/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0226-invert-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0226-invert-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0226-invert-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0226-invert-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0226-invert-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
