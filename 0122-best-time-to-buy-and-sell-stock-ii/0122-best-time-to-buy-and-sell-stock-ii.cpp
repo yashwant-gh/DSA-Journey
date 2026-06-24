@@ -1,7 +1,6 @@
 class Solution {
 public:
     int maxProfit(vector<int>& arr) {
-        int curr_pr = arr[0];
         bool hold =false;
         int total_profit=0;
         for(int i=1;i<arr.size();i++){
