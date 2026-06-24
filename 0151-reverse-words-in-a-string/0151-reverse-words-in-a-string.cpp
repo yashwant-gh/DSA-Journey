@@ -6,7 +6,6 @@ public:
         for(int i=s.size()-1;i>=0;i--){
              if(s[i]!=' '){
                 wd.push_back(s[i]);
-                cout<<wd<<" ";
                 if(i==0){
                     reverse(wd.begin(),wd.end());
                     ans.append(wd);
