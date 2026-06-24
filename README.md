@@ -66,6 +66,7 @@ Let’s grow together. 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yashwant-gh/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/yashwant-gh/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/yashwant-gh/DSA-Journey/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0682-baseball-game/) | Easy |
@@ -272,4 +273,5 @@ Let’s grow together. 🚀
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yashwant-gh/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
