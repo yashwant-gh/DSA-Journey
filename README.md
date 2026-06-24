@@ -64,6 +64,7 @@ Let’s grow together. 🚀
 | ------- |
 | [0001-two-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/yashwant-gh/DSA-Journey/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashwant-gh/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -153,6 +154,7 @@ Let’s grow together. 🚀
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/yashwant-gh/DSA-Journey/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0415-add-strings](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0415-add-strings/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
