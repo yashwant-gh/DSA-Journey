@@ -1,23 +1,22 @@
 class Solution {
 public:
     vector<int> plusOne(vector<int>& arr) {
-        if(arr[arr.size()-1]!=9){
-            arr[arr.size()-1]++;
-            return arr;
-        }
-        bool carry=true;
+        int carry = 0;
+        int sum = 0;
         for(int i=arr.size()-1;i>=0;i--){
-            if(arr[i]==9 && carry){
-                arr[i]=0;
+            if(i==arr.size()-1)sum = 1 + arr[i];
+            else sum = carry + arr[i];
+            if(sum > 9){
+                carry = 1;
+                arr[i] = sum - 10;
             }
-            else {
-                if(carry){
-                    arr[i]++;
-                    carry=false;
-                }
+            else{
+                carry = 0;
+                arr[i] = sum;
             }
         }
-        if(carry) arr.insert(arr.begin()+0,1);
+        if(carry)arr.insert(arr.begin(),carry);
         return arr;
+
     }
 };
