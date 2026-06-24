@@ -62,6 +62,7 @@ Let’s grow together. 🚀
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0283-move-zeroes](https://github.com/yashwant-gh/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/yashwant-gh/DSA-Journey/tree/master/0485-max-consecutive-ones) |
@@ -92,6 +93,7 @@ Let’s grow together. 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0001-two-sum) |
 | [0771-jewels-and-stones](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
