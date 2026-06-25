@@ -66,6 +66,7 @@ Let’s grow together. 🚀
 | [0011-container-with-most-water](https://github.com/yashwant-gh/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/yashwant-gh/DSA-Journey/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/yashwant-gh/DSA-Journey/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -143,6 +144,7 @@ Let’s grow together. 🚀
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/yashwant-gh/DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/yashwant-gh/DSA-Journey/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -197,6 +199,7 @@ Let’s grow together. 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashwant-gh/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/yashwant-gh/DSA-Journey/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/yashwant-gh/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
