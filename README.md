@@ -71,6 +71,7 @@ Let’s grow together. 🚀
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/yashwant-gh/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/yashwant-gh/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/yashwant-gh/DSA-Journey/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/yashwant-gh/DSA-Journey/tree/master/0485-max-consecutive-ones) |
@@ -216,6 +217,7 @@ Let’s grow together. 🚀
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/yashwant-gh/DSA-Journey/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Ordered Set
