@@ -69,6 +69,7 @@ Let’s grow together. 🚀
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashwant-gh/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0189-rotate-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/yashwant-gh/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/yashwant-gh/DSA-Journey/tree/master/0414-third-maximum-number) |
@@ -159,6 +160,7 @@ Let’s grow together. 🚀
 | ------- |
 | [0066-plus-one](https://github.com/yashwant-gh/DSA-Journey/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0189-rotate-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0189-rotate-array) |
 | [0415-add-strings](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0415-add-strings/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -191,6 +193,7 @@ Let’s grow together. 🚀
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/yashwant-gh/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yashwant-gh/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0905-sort-array-by-parity/) | Easy |
