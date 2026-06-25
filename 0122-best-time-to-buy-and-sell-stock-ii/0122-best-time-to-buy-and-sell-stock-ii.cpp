@@ -1,18 +1,18 @@
 class Solution {
 public:
     int maxProfit(vector<int>& arr) {
-        bool hold =false;
-        int total_profit=0;
+        bool hold = false;
+        int total_profit = 0;
         for(int i=1;i<arr.size();i++){
             if(arr[i]>arr[i-1] && !hold){
                 total_profit-=arr[i-1];
                 hold = true;
             }
-            else if (arr[i]<arr[i-1] && hold){
+            else if(arr[i]<arr[i-1] && hold){
                 total_profit+=arr[i-1];
-                hold =false;
+                hold = false;
             }
-            if(i==arr.size()-1 && hold)total_profit+=arr[i];
+            if(hold && i==arr.size()-1)total_profit+=arr[i];
         }
         return total_profit;
     }
