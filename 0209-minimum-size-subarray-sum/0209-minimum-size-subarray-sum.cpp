@@ -8,8 +8,7 @@ public:
             sum+=arr[r];
             while(sum>=target){
                 ans = min(ans,r-l+1);
-                sum-=arr[l];
-                l++;
+                sum-=arr[l++];
             }
             r++;
         }
