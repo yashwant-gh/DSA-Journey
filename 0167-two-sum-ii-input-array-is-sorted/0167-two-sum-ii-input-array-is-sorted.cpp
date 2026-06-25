@@ -7,7 +7,7 @@ public:
         }
         vector<int>ans;
         for(int i=0;i<arr.size();i++){
-            int need =target- arr[i];
+            int need = target- arr[i];
             if(mp.find(need)!=mp.end()){
                 ans.push_back(i+1);
                 ans.push_back(mp[need]+1);
