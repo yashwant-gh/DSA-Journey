@@ -63,6 +63,7 @@ Let’s grow together. 🚀
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/yashwant-gh/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/yashwant-gh/DSA-Journey/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -191,6 +192,7 @@ Let’s grow together. 🚀
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashwant-gh/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/yashwant-gh/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
@@ -227,6 +229,7 @@ Let’s grow together. 🚀
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yashwant-gh/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Tree
