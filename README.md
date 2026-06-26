@@ -66,6 +66,7 @@ Let’s grow together. 🚀
 | [0011-container-with-most-water](https://github.com/yashwant-gh/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/yashwant-gh/DSA-Journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yashwant-gh/DSA-Journey/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -308,4 +309,8 @@ Let’s grow together. 🚀
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
