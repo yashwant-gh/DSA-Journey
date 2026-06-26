@@ -74,6 +74,7 @@ Let’s grow together. 🚀
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashwant-gh/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0162-find-peak-element](https://github.com/yashwant-gh/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashwant-gh/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
@@ -216,6 +217,7 @@ Let’s grow together. 🚀
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/yashwant-gh/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashwant-gh/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
