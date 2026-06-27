@@ -9,7 +9,7 @@ public:
         }
         vector<vector<string>>ans;
         for(auto& pair:mp){
-            ans.push_back(move(pair.second));
+            ans.push_back(pair.second);
         }
         return ans;
     }
