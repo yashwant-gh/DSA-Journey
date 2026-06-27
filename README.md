@@ -68,6 +68,7 @@ Let’s grow together. 🚀
 | [0033-search-in-rotated-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/yashwant-gh/DSA-Journey/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/yashwant-gh/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/yashwant-gh/DSA-Journey/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/yashwant-gh/DSA-Journey/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -113,6 +114,7 @@ Let’s grow together. 🚀
 | ------- |
 | [0001-two-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/yashwant-gh/DSA-Journey/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/yashwant-gh/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0771-jewels-and-stones](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -127,6 +129,7 @@ Let’s grow together. 🚀
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yashwant-gh/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/yashwant-gh/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0415-add-strings/) | Easy |
 | [0520-detect-capital](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0520-detect-capital/) | Easy |
@@ -149,6 +152,7 @@ Let’s grow together. 🚀
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yashwant-gh/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/yashwant-gh/DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/yashwant-gh/DSA-Journey/tree/master/0414-third-maximum-number) |
