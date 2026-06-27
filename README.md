@@ -64,6 +64,7 @@ Let’s grow together. 🚀
 | ------- |
 | [0001-two-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/yashwant-gh/DSA-Journey/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/yashwant-gh/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0039-combination-sum) |
@@ -132,6 +133,7 @@ Let’s grow together. 🚀
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yashwant-gh/DSA-Journey/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashwant-gh/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/yashwant-gh/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/yashwant-gh/DSA-Journey/tree/master/0125-valid-palindrome) |
@@ -337,4 +339,8 @@ Let’s grow together. 🚀
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yashwant-gh/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yashwant-gh/DSA-Journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
