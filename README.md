@@ -132,6 +132,7 @@ Let’s grow together. 🚀
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashwant-gh/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/yashwant-gh/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/yashwant-gh/DSA-Journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/yashwant-gh/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
@@ -215,6 +216,7 @@ Let’s grow together. 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashwant-gh/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashwant-gh/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/yashwant-gh/DSA-Journey/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0088-merge-sorted-array) |
@@ -243,6 +245,7 @@ Let’s grow together. 🚀
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yashwant-gh/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2185-counting-words-with-a-given-prefix/) | Easy |
 ## Prefix Sum
 |  |
