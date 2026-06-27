@@ -70,6 +70,7 @@ Let’s grow together. 🚀
 | [0041-first-missing-positive](https://github.com/yashwant-gh/DSA-Journey/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yashwant-gh/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/yashwant-gh/DSA-Journey/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/yashwant-gh/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yashwant-gh/DSA-Journey/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0088-merge-sorted-array) |
@@ -115,6 +116,7 @@ Let’s grow together. 🚀
 | [0001-two-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/yashwant-gh/DSA-Journey/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yashwant-gh/DSA-Journey/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/yashwant-gh/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0771-jewels-and-stones](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -321,4 +323,8 @@ Let’s grow together. 🚀
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0039-combination-sum) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/yashwant-gh/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
