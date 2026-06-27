@@ -117,6 +117,7 @@ Let’s grow together. 🚀
 | [0041-first-missing-positive](https://github.com/yashwant-gh/DSA-Journey/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yashwant-gh/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/yashwant-gh/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/yashwant-gh/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -133,6 +134,7 @@ Let’s grow together. 🚀
 | ------- |
 | [0049-group-anagrams](https://github.com/yashwant-gh/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/yashwant-gh/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/yashwant-gh/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yashwant-gh/DSA-Journey/tree/master/0344-reverse-string) |
 | [0415-add-strings](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0415-add-strings/) | Easy |
 | [0520-detect-capital](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0520-detect-capital/) | Easy |
@@ -158,6 +160,7 @@ Let’s grow together. 🚀
 | [0049-group-anagrams](https://github.com/yashwant-gh/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/yashwant-gh/DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/yashwant-gh/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/yashwant-gh/DSA-Journey/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
