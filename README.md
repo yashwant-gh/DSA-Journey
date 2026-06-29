@@ -70,6 +70,7 @@ Let’s grow together. 🚀
 | [0039-combination-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/yashwant-gh/DSA-Journey/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yashwant-gh/DSA-Journey/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/yashwant-gh/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/yashwant-gh/DSA-Journey/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/yashwant-gh/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yashwant-gh/DSA-Journey/tree/master/0075-sort-colors) |
@@ -314,6 +315,7 @@ Let’s grow together. 🚀
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yashwant-gh/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 ## Binary Search Tree
 |  |
@@ -325,6 +327,7 @@ Let’s grow together. 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/yashwant-gh/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashwant-gh/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
