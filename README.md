@@ -141,6 +141,7 @@ Let’s grow together. 🚀
 | [0151-reverse-words-in-a-string](https://github.com/yashwant-gh/DSA-Journey/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/yashwant-gh/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/yashwant-gh/DSA-Journey/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/yashwant-gh/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0415-add-strings/) | Easy |
 | [0520-detect-capital](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0520-detect-capital/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -230,6 +231,7 @@ Let’s grow together. 🚀
 | [0189-rotate-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yashwant-gh/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yashwant-gh/DSA-Journey/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/yashwant-gh/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0905-sort-array-by-parity](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -331,6 +333,7 @@ Let’s grow together. 🚀
 | [0096-unique-binary-search-trees](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashwant-gh/DSA-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/yashwant-gh/DSA-Journey/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
