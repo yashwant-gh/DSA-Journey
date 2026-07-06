@@ -233,6 +233,7 @@ Let’s grow together. 🚀
 | [0344-reverse-string](https://github.com/yashwant-gh/DSA-Journey/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/yashwant-gh/DSA-Journey/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/yashwant-gh/DSA-Journey/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0876-middle-of-the-linked-list](https://github.com/yashwant-gh/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2000-reverse-prefix-of-word/) | Easy |
@@ -350,4 +351,8 @@ Let’s grow together. 🚀
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yashwant-gh/DSA-Journey/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/yashwant-gh/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
