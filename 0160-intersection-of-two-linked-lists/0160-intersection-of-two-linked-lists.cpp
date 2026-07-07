@@ -13,7 +13,6 @@ public:
         ListNode* temp1 =head1;
         ListNode* temp2 = head2;
         while(temp1){
-            if(mp[temp1])return temp1;
             mp[temp1]++;
             temp1=temp1->next;
         }
