@@ -119,6 +119,7 @@ Let’s grow together. 🚀
 | [0041-first-missing-positive](https://github.com/yashwant-gh/DSA-Journey/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/yashwant-gh/DSA-Journey/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/yashwant-gh/DSA-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/yashwant-gh/DSA-Journey/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashwant-gh/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/yashwant-gh/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0771-jewels-and-stones/) | Easy |
@@ -358,6 +359,15 @@ Let’s grow together. 🚀
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashwant-gh/DSA-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0146-lru-cache](https://github.com/yashwant-gh/DSA-Journey/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashwant-gh/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/yashwant-gh/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yashwant-gh/DSA-Journey/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yashwant-gh/DSA-Journey/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
