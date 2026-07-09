@@ -31,8 +31,6 @@ public:
         Node* right = temp->next;
         left->next = right;
         right->prev = left;
-        // temp->prev->next = tail;
-        // tail->prev = temp->prev;
     }
 
     // move to front
