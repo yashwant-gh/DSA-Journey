@@ -280,6 +280,7 @@ Let’s grow together. 🚀
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yashwant-gh/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -292,6 +293,7 @@ Let’s grow together. 🚀
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yashwant-gh/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -302,6 +304,7 @@ Let’s grow together. 🚀
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yashwant-gh/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0226-invert-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -311,6 +314,7 @@ Let’s grow together. 🚀
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0104-maximum-depth-of-binary-tree](https://github.com/yashwant-gh/DSA-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
