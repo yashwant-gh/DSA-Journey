@@ -13,18 +13,8 @@ class Solution {
 public:
     int maxDepth(TreeNode* root) {
         if(!root)return 0;
-        int l=0;
-        int r=0;
-        TreeNode* templ=root;
-        TreeNode* tempr=root;
-        while(templ){
-            l++;
-            templ=templ->left;
-        }
-        while(tempr){
-            r++;
-            tempr=tempr->right;
-        }
-        return max(l,r);
+        int l=maxDepth(root->left);
+        int r=maxDepth(root->right);
+        return max(l,r)+1;
     }
 };
