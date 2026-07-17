@@ -176,6 +176,7 @@ Let’s grow together. 🚀
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2363-merge-similar-items](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2363-merge-similar-items/) | Easy |
 | [2418-sort-the-people](https://github.com/Yashwant-GH/DSA-Journey/tree/main/2418-sort-the-people/) | Easy |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/yashwant-gh/DSA-Journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3842-toggle-light-bulbs](https://github.com/Yashwant-GH/DSA-Journey/tree/main/3842-toggle-light-bulbs/) | Easy |
 ## Simulation
 |  |
@@ -289,6 +290,7 @@ Let’s grow together. 🚀
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/yashwant-gh/DSA-Journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -309,6 +311,7 @@ Let’s grow together. 🚀
 | [0226-invert-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0226-invert-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/yashwant-gh/DSA-Journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -323,6 +326,7 @@ Let’s grow together. 🚀
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/yashwant-gh/DSA-Journey/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
