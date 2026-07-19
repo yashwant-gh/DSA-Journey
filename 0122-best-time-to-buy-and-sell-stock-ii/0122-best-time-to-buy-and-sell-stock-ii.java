@@ -10,7 +10,6 @@ class Solution {
             r++;
         }
         if(l!=r-1)mx_profit+=arr[r-1]-arr[l];
-        // mx_profit = Math.max(mx_profit, arr[arr.length - 1] - arr[0]);
         return mx_profit;
     }
 }
