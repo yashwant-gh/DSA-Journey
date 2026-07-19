@@ -84,6 +84,7 @@ Let’s grow together. 🚀
 | [0189-rotate-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/yashwant-gh/DSA-Journey/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/yashwant-gh/DSA-Journey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashwant-gh/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/yashwant-gh/DSA-Journey/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/yashwant-gh/DSA-Journey/tree/master/0485-max-consecutive-ones) |
@@ -122,6 +123,7 @@ Let’s grow together. 🚀
 | [0146-lru-cache](https://github.com/yashwant-gh/DSA-Journey/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashwant-gh/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/yashwant-gh/DSA-Journey/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/yashwant-gh/DSA-Journey/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0771-jewels-and-stones/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -169,6 +171,7 @@ Let’s grow together. 🚀
 | [0075-sort-colors](https://github.com/yashwant-gh/DSA-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/yashwant-gh/DSA-Journey/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/yashwant-gh/DSA-Journey/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/yashwant-gh/DSA-Journey/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -192,6 +195,7 @@ Let’s grow together. 🚀
 | [0066-plus-one](https://github.com/yashwant-gh/DSA-Journey/tree/master/0066-plus-one) |
 | [0096-unique-binary-search-trees](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0189-rotate-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/yashwant-gh/DSA-Journey/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0415-add-strings/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/yashwant-gh/DSA-Journey/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -249,10 +253,12 @@ Let’s grow together. 🚀
 | [0162-find-peak-element](https://github.com/yashwant-gh/DSA-Journey/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/yashwant-gh/DSA-Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashwant-gh/DSA-Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/yashwant-gh/DSA-Journey/tree/master/0268-missing-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/yashwant-gh/DSA-Journey/tree/master/0268-missing-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 ## String Matching
 |  |
