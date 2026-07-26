@@ -93,6 +93,7 @@ Let’s grow together. 🚀
 | [0283-move-zeroes](https://github.com/yashwant-gh/DSA-Journey/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/yashwant-gh/DSA-Journey/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/yashwant-gh/DSA-Journey/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashwant-gh/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0682-baseball-game/) | Easy |
 | [0733-flood-fill](https://github.com/yashwant-gh/DSA-Journey/tree/master/0733-flood-fill) |
 | [0905-sort-array-by-parity](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -183,6 +184,7 @@ Let’s grow together. 🚀
 | [0242-valid-anagram](https://github.com/yashwant-gh/DSA-Journey/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/yashwant-gh/DSA-Journey/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/yashwant-gh/DSA-Journey/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashwant-gh/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
@@ -207,6 +209,7 @@ Let’s grow together. 🚀
 | [0189-rotate-array](https://github.com/yashwant-gh/DSA-Journey/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yashwant-gh/DSA-Journey/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/Yashwant-GH/DSA-Journey/tree/main/0415-add-strings/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/yashwant-gh/DSA-Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/yashwant-gh/DSA-Journey/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/Yashwant-GH/DSA-Journey/tree/main/1903-largest-odd-number-in-string/) | Easy |
