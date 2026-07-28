@@ -400,6 +400,7 @@ Let’s grow together. 🚀
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashwant-gh/DSA-Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/yashwant-gh/DSA-Journey/tree/master/0021-merge-two-sorted-lists) |
 | [0146-lru-cache](https://github.com/yashwant-gh/DSA-Journey/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashwant-gh/DSA-Journey/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/yashwant-gh/DSA-Journey/tree/master/0876-middle-of-the-linked-list) |
@@ -411,4 +412,8 @@ Let’s grow together. 🚀
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yashwant-gh/DSA-Journey/tree/master/0146-lru-cache) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/yashwant-gh/DSA-Journey/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
